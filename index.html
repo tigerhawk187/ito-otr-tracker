@@ -683,15 +683,18 @@ function filterCards() {
 }
 
 // ── LOAD ──────────────────────────────────────────────────────────
-const DATA_URL = 'https://netorg282190.sharepoint.com/_api/web/GetFileByServerRelativeUrl(\'/Shared%20Documents/Project%20Tracker/project-data.json\')/$value';
+// Fetches project-data.json from the same origin (GitHub Pages).
+// Power Automate commits an updated project-data.json to the repo daily at 6am.
+// Falls back to embedded FALLBACK data if fetch fails.
+const DATA_URL = 'project-data.json';
 (async () => {
   if (window.location.protocol === 'file:') {
-    console.log('[Tracker] Local file — using embedded data (updated daily by Power Automate).');
+    console.log('[Tracker] Local file — using embedded data.');
     render(FALLBACK);
     return;
   }
   try {
-    const res = await fetch(DATA_URL, { cache: 'no-store', credentials: 'include' });
+    const res = await fetch(DATA_URL, { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
     console.log('[Tracker] Live data loaded from SharePoint.');

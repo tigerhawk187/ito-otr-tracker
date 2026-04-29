@@ -1,0 +1,279 @@
+{
+  "lastUpdated": "2026-04-28T21:30:00Z",
+  "stats": {
+    "closedWonYTD": 80,
+    "closedLostYTD": 49
+  },
+  "tg1": [
+    {
+      "id": "37233458582",
+      "name": "Invenergy - Grand Ridge Energy Storage (GRES) Decom",
+      "amount": 1129516,
+      "ownerName": "James Polcyn",
+      "createdate": "2025-05-14",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/37233458582"
+    },
+    {
+      "id": "39659734944",
+      "name": "Jinko Solar - Elmhurst Spares Warehousing for Danville",
+      "amount": 3900,
+      "ownerName": "James Polcyn",
+      "createdate": "2025-07-03",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/39659734944"
+    },
+    {
+      "id": "45915936941",
+      "name": "Convergent Energy & Power - West Warwick LTSA",
+      "amount": 96708,
+      "ownerName": "James Polcyn",
+      "createdate": "2025-08-21",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/45915936941"
+    },
+    {
+      "id": "47416032302",
+      "name": "TerraVerde Energy - Tulare Decom (4 Sites)",
+      "amount": 50000,
+      "ownerName": "Ganesh Bala",
+      "createdate": "2025-10-28",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/47416032302"
+    },
+    {
+      "id": "49260358969",
+      "name": "TECO Energy - MSA",
+      "amount": 0,
+      "ownerName": "James Polcyn",
+      "createdate": "2025-11-17",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/49260358969"
+    },
+    {
+      "id": "50870356579",
+      "name": "EMSCO - Sale of Containers + Inverters/Transformers from Invenergy GRES Decom",
+      "amount": 170000,
+      "ownerName": "James Polcyn",
+      "createdate": "2025-12-01",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/50870356579"
+    },
+    {
+      "id": "54074167710",
+      "name": "Jinko Solar - Anguilla, Aurora Resort Annual PM",
+      "amount": 6596,
+      "ownerName": "James Polcyn",
+      "createdate": "2026-01-16",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/54074167710"
+    },
+    {
+      "id": "54421287468",
+      "name": "Jinko Solar - Anguilla, Aurora Resort EnerOne Alarm Troubleshoot",
+      "amount": 8650,
+      "ownerName": "James Polcyn",
+      "createdate": "2026-01-23",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/54421287468"
+    },
+    {
+      "id": "54609926504",
+      "name": "Wartsila - Daggett 3 Annual HVAC + Enclosure Maintenance 2026",
+      "amount": 119229,
+      "ownerName": "James Polcyn",
+      "createdate": "2026-01-27",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/54609926504"
+    },
+    {
+      "id": "56091161234",
+      "name": "APS - Powin Training for Staff Trainer \u2014 Mar 2026",
+      "amount": 3000,
+      "ownerName": "James Polcyn",
+      "createdate": "2026-02-11",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/56091161234"
+    },
+    {
+      "id": "56611841965",
+      "name": "Risen - Dedicated Resource in McAllen TX \u2014 Feb 2026",
+      "amount": 15000,
+      "ownerName": "Yi Pang",
+      "createdate": "2026-02-19",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/56611841965"
+    },
+    {
+      "id": "56611656456",
+      "name": "Risen - Dedicated Resource in McAllen TX \u2014 Mar 2026",
+      "amount": 10000,
+      "ownerName": "Yi Pang",
+      "createdate": "2026-02-19",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/56611656456"
+    },
+    {
+      "id": "56935947158",
+      "name": "Ocado - Repack 4 Pallets of Zeus Batteries",
+      "amount": 2600,
+      "ownerName": "Sander Jacobs",
+      "createdate": "2026-02-23",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/56935947158"
+    },
+    {
+      "id": "57021840147",
+      "name": "ABS - Springboro Battery Recycling",
+      "amount": 2500,
+      "ownerName": "Ganesh Bala",
+      "createdate": "2026-02-26",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/57021840147"
+    },
+    {
+      "id": "57830248352",
+      "name": "Medatech - MCU Repair",
+      "amount": 1750,
+      "ownerName": "Ganesh Bala",
+      "createdate": "2026-03-09",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/57830248352"
+    },
+    {
+      "id": "57938996264",
+      "name": "Medatech - VTB Diagnosis & Repair",
+      "amount": 1815,
+      "ownerName": "Ganesh Bala",
+      "createdate": "2026-03-12",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/57938996264"
+    },
+    {
+      "id": "58025025156",
+      "name": "Risen - Dedicated Resource in McAllen TX \u2014 Apr 2026",
+      "amount": 10000,
+      "ownerName": "Yi Pang",
+      "createdate": "2026-03-16",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/58025025156"
+    },
+    {
+      "id": "58986852432",
+      "name": "International - CATL Pigtail Parts Supply",
+      "amount": 189,
+      "ownerName": "James Polcyn",
+      "createdate": "2026-04-08",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/58986852432"
+    },
+    {
+      "id": "59644279121",
+      "name": "NextEra Energy - Ninnescah Flats ES Decom Plan (Year 0 + Year 5) \u2014 April 2026",
+      "amount": 9850,
+      "ownerName": "James Polcyn",
+      "createdate": "2026-04-24",
+      "hubspotUrl": "https://app.hubspot.com/contacts/46373552/record/0-3/59644279121"
+    }
+  ],
+  "tg3": [
+    {
+      "title": "LG Energy Solution Vertech - DESRI Santa Teresa I&C",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "JS Held - Powin Decom Willow Springs",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Convergent Energy & Power - West Warwick LTSA",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Invenergy - Grand Ridge Energy Storage (GRES) Decom",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Wartsila - Daggett 3 Annual HVAC + Enclosure Maintenance 2026",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "EMSCO - Sale of Containers + Inverters/Transformers from Invenergy GRES Decom",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "TerraVerde Energy - Tulare Decom (4 Sites)",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Medatech - MCU Repair",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Medatech - VTB Diagnosis & Repair",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "ABS - Springboro Battery Recycling",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Ocado - Repack 4 Pallets of Zeus Batteries",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Risen - Dedicated Resource in McAllen TX \u2014 Apr 2026",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Risen - Dedicated Resource in McAllen TX \u2014 Mar 2026",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Risen - Dedicated Resource in McAllen TX \u2014 Feb 2026",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "APS - Powin Training for Staff Trainer \u2014 Mar 2026",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Jinko Solar - Anguilla, Aurora Resort EnerOne Alarm Troubleshoot",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Jinko Solar - Anguilla, Aurora Resort Annual PM",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "TECO Energy - MSA",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    },
+    {
+      "title": "Jinko Solar - Elmhurst Spares Warehousing for Danville",
+      "percentComplete": 0,
+      "createdate": "2026-04-20",
+      "bucketId": "8-YFbPMF1ki1u2Nh4otlVWQAJYgl"
+    }
+  ],
+  "tg4": [],
+  "tg6": []
+}
